@@ -1,17 +1,18 @@
+# Website is a work in progress.
+# Hi, I'm John Calaunan
+Building Services Consultant | Designer | Electrical Engineer | now Data Analyst
+
 ## Welcome to GitHub Pages
+Hello and welcome to my website. I am an electrical engineer pursuing postgraduate education in Data Analytics. I am passionate about working in data engineering and analytics, I strongly believe that our reliance on data will continue to be a key factor in shaping our decisions and as a result our future.
+Throughout my career I have become proficient in critical thinking and problem solving to develop practical engineered solutions for the building services industry.
+I aspire to further build my capabilities as a Data Analyst with capabilities of a Data Engineer, as I strongly believe that our reliance on data will continue to be a key factor in shaping our decisions and as a result our future.
 
-You can use the [editor on GitHub](https://github.com/jCarl0/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects:
 
 ```markdown
-Syntax highlighted code block
+# Investigation of Global Electricity Data
 
-# Header 1
+# Gait Analysis using Machine Learning
 ## Header 2
 ### Header 3
 
@@ -25,13 +26,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### What I'm working on:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jCarl0/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

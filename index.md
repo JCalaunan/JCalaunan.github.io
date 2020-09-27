@@ -29,3 +29,5 @@ I aspire to further build my capabilities as a Data Analyst with capabilities of
 ### What I'm working on:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![Twitter Follow](https://img.shields.io/twitter/follow/JCalaunan?color=blue&label=Follow&style=social)

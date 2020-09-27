@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 name: John Calaunan
 title: null
+github:
+  is_project_page: false

@@ -8,26 +8,18 @@ Throughout my career I have become proficient in critical thinking and problem s
 I aspire to further build my capabilities as a Data Analyst with capabilities of a Data Engineer, as I strongly believe that our reliance on data will continue to be a key factor in shaping our decisions and as a result our future.
 
 ### Projects:
+[Generic File renamer script](https://github.com/JCalaunan/PRJ_File_Renamer)<br>
+[Statistical Analysis - A/B Hypothesis Testing](https://github.com/JCalaunan/PRJ_AB-Testing)<br>
+[Data wrangling - Kaggle Job Posts](https://github.com/JCalaunan/PRJ_Wrangling-Job-Posts)<br>
+[Adventureworks KPI Dashboard - link pending]()<br>
+[EDA of Gapminder Global Electricity](https://github.com/JCalaunan/PRJ_Gapminder-Global-Electricity-data)<br>
+[Kmeans ML for Gait Analysis via an IMU](https://github.com/JCalaunan/PRJ_UTS-Capstone-ML-IMU-Gait-Analysis)<br>
 
-```markdown
-# Investigation of Global Electricity Data
 
-# Gait Analysis using Machine Learning
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### What I'm working on:
+[Data Wrangling Twitter files](https://github.com/JCalaunan/PRJ_Wrangle-Twitter)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Github Homepage:
+https://github.com/JCalaunan/JCalaunan
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JCalaunan?color=blue&label=Follow&style=social)
